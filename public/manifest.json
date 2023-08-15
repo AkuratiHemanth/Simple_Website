@@ -1,31 +1,31 @@
 {
-  "name": "Login Website",
-  "short_name": "Login",
-  "description": "A login website created with React and Material-UI.",
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#1976D2",
-  "background_color": "#FFFFFF",
-  "icons": [
-    {
-      "src": "icons/icon-72x72.png",
-      "sizes": "72x72",
-      "type": "image/png"
-    },
-    {
-      "src": "icons/icon-96x96.png",
-      "sizes": "96x96",
-      "type": "image/png"
-    },
-    {
-      "src": "icons/icon-144x144.png",
-      "sizes": "144x144",
-      "type": "image/png"
-    },
-    {
-      "src": "icons/icon-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    }
-  ]
-}
+    "name": "Login Website",
+    "short_name": "Login",
+    "description": "A login website created with React and Material-UI.",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#1976D2",
+    "background_color": "#FFFFFF",
+    "icons": [
+      {
+        "src": "icons/icon-72x72.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-96x96.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-144x144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
